@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-kandl",
+  "version": "1.0.0",
+  "description": "K&L's ESLint config, following our style guide",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbc/eslint-config-kandl"
+  },
+  "license": "BBC",
+  "bugs": {
+    "url": "https://github.com/bbc/eslint-config-kandl"
+  }
+}
