@@ -22,7 +22,7 @@ Rules can easily be overriden, e.g.
 {
     "extends": "kandl",
     "rules": {
-        "max-len": [2, 82, 4], // max length: 82 chars,
+        "max-len": [2, 82, 4] // max length: 82 chars
     }
 }
 ```

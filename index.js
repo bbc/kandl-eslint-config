@@ -1,11 +1,11 @@
 module.exports = {
     "rules": {
         "camelcase": 2, // Force all variable names to use camelCase
-        "eol-last": 2, // Force single newline at eof,
+        "eol-last": 2, // Force single newline at eof
         "eqeqeq": 2, // Force === and !==
         "indent": [2, 4, { "SwitchCase": 1 }], // 4 spaces, force indentation in switch statements
         "linebreak-style": [2, "unix"],
-        "max-len": [2, 100, 4], // max length: 100 chars,
+        "max-len": [2, 100, 4], // max length: 100 chars
         "new-cap": 2, // Require capitalized names for constructor functions
         "no-trailing-spaces": 2, // Prohibit trailing whitespace
         "no-undef-init": 2, // Force defining variables before use
