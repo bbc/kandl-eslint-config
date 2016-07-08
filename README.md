@@ -22,7 +22,11 @@ Rules can easily be overriden, e.g.
 {
     "extends": "kandl",
     "rules": {
-        "max-len": [2, 82, 4], // max length: 82 chars,
+        "max-len": [2, 82, 4] // max length: 82 chars
     }
 }
 ```
+
+# License
+
+This K&L ESLint Config is licensed under the MIT License and is copyrighted by the BBC except where stated. Please see [LICENSE.md](LICENSE.md) for the full license.
