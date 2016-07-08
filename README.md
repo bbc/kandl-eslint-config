@@ -29,4 +29,4 @@ Rules can easily be overriden, e.g.
 
 # License
 
-This Style Guide is licensed under the MIT License and is copyrighted by the BBC except where stated. Please see [LICENSE.md](LICENSE.md) for the full license.
+This K&L ESLint Config is licensed under the MIT License and is copyrighted by the BBC except where stated. Please see [LICENSE.md](LICENSE.md) for the full license.
