@@ -7,6 +7,7 @@ module.exports = {
         "linebreak-style": [2, "unix"],
         "max-len": [2, 100, 4], // max length: 100 chars
         "new-cap": 2, // Require capitalized names for constructor functions
+        "newline-after-var": 2, // Require empty line after var declarations
         "no-trailing-spaces": 2, // Prohibit trailing whitespace
         "no-undef-init": 2, // Force defining variables before use
         "no-unused-vars": 2, // Prohibit variables which are defined but never used

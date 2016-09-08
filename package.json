@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kandl",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "K&L's ESLint config, following our style guide",
   "main": "index.js",
   "repository": {
